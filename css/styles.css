@@ -1,0 +1,8 @@
+.hidden {
+  display: none;
+}
+
+.col-lg-4 {
+  height: 150px;
+  border: 1px solid black;
+}
